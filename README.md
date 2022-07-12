@@ -1,4 +1,4 @@
-# links-to-various-google-drives
+# links-to-various-repos
 Contains links to various google drives maintained by me
 
 Includes repositories pertaining to:
